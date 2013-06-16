@@ -1,0 +1,8 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<h2>Home</h2>
+
+Current user: @HttpContext.Current.User.Identity.Name <br />
+Is in Administrator role: @HttpContext.Current.User.IsInRole("Administrator")

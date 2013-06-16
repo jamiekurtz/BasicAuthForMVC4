@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAuthForMVC4.Common", "BasicAuthForMVC4.Common\BasicAuthForMVC4.Common.csproj", "{D300293C-AE83-4D06-BAB7-941442B3FEF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAuthForMVC4.Web.Common", "BasicAuthForMVC4.Web.Common\BasicAuthForMVC4.Web.Common.csproj", "{3A1595BE-5FA8-43AC-99C9-6E8BDB918C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAuthForMVC4.Web.Example", "BasicAuthForMVC4.Web.Example\BasicAuthForMVC4.Web.Example.csproj", "{44D84AFA-53E8-450C-9793-C039FDB1771E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D300293C-AE83-4D06-BAB7-941442B3FEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D300293C-AE83-4D06-BAB7-941442B3FEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D300293C-AE83-4D06-BAB7-941442B3FEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D300293C-AE83-4D06-BAB7-941442B3FEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A1595BE-5FA8-43AC-99C9-6E8BDB918C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1595BE-5FA8-43AC-99C9-6E8BDB918C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1595BE-5FA8-43AC-99C9-6E8BDB918C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1595BE-5FA8-43AC-99C9-6E8BDB918C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D84AFA-53E8-450C-9793-C039FDB1771E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D84AFA-53E8-450C-9793-C039FDB1771E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D84AFA-53E8-450C-9793-C039FDB1771E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D84AFA-53E8-450C-9793-C039FDB1771E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
